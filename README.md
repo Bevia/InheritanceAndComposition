@@ -27,4 +27,10 @@ Now lets build a Jet Plane with all these components:
 As you can see composition is very powerful!
 Some videos and extra info shortly.
 
+Developed with IntelliJ IDEA 15
+
+You can use your own JAVA IDE (NetBeans, Eclipse, others...)
+or you may download IntelliJ IDEA from: 
+https://www.jetbrains.com/idea/whatsnew/ 
+
 Cheers!
