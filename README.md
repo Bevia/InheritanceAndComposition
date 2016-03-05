@@ -1,13 +1,13 @@
 # InheritanceAndComposition
 JAVA: Usage of Inheritance and Composition.
 
-a Jet Plane has several components (among many other, but 3 for the sake of simplicity):
+a Jet Plane has several components (among many others of course, but 3 for the sake of simplicity):
 
 1)a Jet Engine which contains (has-a) a Combustion Chamber (as a component)
 
-2)a Retracting Landing Gear
+2)a Retracting Landing Gear (as a component)
 
-3)and a Weather Radar Scanner
+3)and a Weather Radar Scanner (as a component)
 
 Now lets build a Jet Plane with all these components:
         
@@ -23,3 +23,8 @@ Now lets build a Jet Plane with all these components:
         JetEngine
         JetWeatherRadarScanner and
         JetRetractingLandingGear
+
+As you can see composition is very powerful!
+Some videos and extra info shortly.
+
+Cheers!
